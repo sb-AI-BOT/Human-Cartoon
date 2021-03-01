@@ -16,7 +16,7 @@ from networks import custom_transforms as tr
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument('--loadmodel', default='./model/cartoon.pth')
+parser.add_argument('--loadmodel', default='./model/inference.pth')
 parser.add_argument('--human_img', required=True)
 parser.add_argument('--out', default='./out/')
 parser.add_argument('--use_gpu', default=1)
