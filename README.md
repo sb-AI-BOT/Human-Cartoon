@@ -25,8 +25,12 @@ git clone https://github.com/sb-AI-BOT/Human-Cartoon.git
 Note: See [requirements.txt](requirements.txt) for more details.
 
 
-### model
+### Model
 Download the [**inference.pth**](https://drive.google.com/file/d/1eUe18HoH05p0yFUd_sN6GXdTj82aW0m9/view?usp=sharing) model and put it in directory: ```./model/```.
+
+
+### To Run
+python run.py --human_img
 
 ### More Results
 
