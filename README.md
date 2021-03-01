@@ -28,3 +28,7 @@ Note: See [requirements.txt](requirements.txt) for more details.
 ### model
 Download the [**inference.pth**](https://drive.google.com/file/d/1eUe18HoH05p0yFUd_sN6GXdTj82aW0m9/view?usp=sharing) model and put it in directory: ```./model/```.
 
+### More Results
+
+| --- | --- |
+| ![final_out (2)](https://user-images.githubusercontent.com/67555058/109467405-21bfda00-7a91-11eb-8eab-270d17238be1.jpg)| 
