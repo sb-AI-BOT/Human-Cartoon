@@ -38,7 +38,7 @@ else:
     raise RuntimeError('must use the gpu!!!!')
 
 human_img = args.human_img
-cartoon_img = "./img/animation.jpg"
+cartoon_img = "./imgs/animation.jpg"
 
 first_img_seg = inference(net, human_img, use_gpu=1)
 second_img_seg = inference(net, cartoon_img, use_gpu=1)
